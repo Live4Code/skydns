@@ -1,4 +1,4 @@
-FROM webhippie/alpine:latest
+FROM dspfac/alpine:latest
 MAINTAINER Thomas Boerger <thomas@webhippie.de>
 
 ENV SKYDNS_PATH github.com/skynetservices/skydns
