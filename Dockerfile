@@ -1,4 +1,4 @@
-FROM dspfac/alpine:latest
+FROM gliderlabs/alpine:latest
 MAINTAINER Thomas Boerger <thomas@webhippie.de>
 
 ENV SKYDNS_PATH github.com/skynetservices/skydns
